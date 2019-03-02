@@ -1,1 +1,1 @@
-# cppPractice
+# Code Snippets 
